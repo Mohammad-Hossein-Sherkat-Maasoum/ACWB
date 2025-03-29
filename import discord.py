@@ -7,7 +7,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageOps
 import os
 
 # Discord bot token and server/channel IDs
-TOKEN = "MTM1NTI2NDExMDg0OTQyNTY1OA.G2QUy5.kv0mnulplXb0rpDkgiaIRyXlUFqIm3q6FMHZJM"
+TOKEN = "شسیشسیشسیشسیشسیشسیشسیشسی"
 GUILD_ID = 1071754085361008690  # Server ID
 WELCOME_CHANNEL_ID = 1072197211766657024  # Welcome channel ID
 
